@@ -1,5 +1,3 @@
-# 507_HW1
- 
 Implementation of Simulated Annealing optimization to solve the Quadratic Assignment Problem (QAP)
 
 
