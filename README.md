@@ -1,6 +1,8 @@
 # 507_HW1
  
 Implementation of Simulated Annealing optimization to solve the Quadratic Assignment Problem (QAP)
+
+
 This code is an implementation of Simualted Annealing to solve the Quadratic Assignment Problem (QAP) test problems of 5 location and 5 facility. The objective is to minimize flow costs between the placed facilities. The flow cost is (flow * distance), where both flow and distance are symmetric between any given pair of departments.
 
 First run main.py
