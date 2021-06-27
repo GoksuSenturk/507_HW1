@@ -1,0 +1,240 @@
+Final Simulated Annealing Solution: [2 4 1 0 3]
+Final Simulated Annealing Cost: 31
+Final Simulated Annealing Solution: [3, 4, 0, 1, 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [3, 0, 4, 1, 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [3 4 0 1 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [3 0 4 1 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [4 3 1 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [2, 1, 4, 0, 3]
+Final Simulated Annealing Cost: 31
+Final Simulated Annealing Solution: [1 0 2 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [3 4 0 1 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [1 0 2 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [4 3 1 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [3, 0, 4, 1, 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [4 1 3 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [4 3 1 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [1 0 2 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [1 2 0 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [3 4 0 1 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [2 4 1 0 3]
+Final Simulated Annealing Cost: 31
+Final Simulated Annealing Solution: [4 1 3 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [1 0 2 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [3 0 4 1 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [3 4 0 1 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [1 0 2 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [3 0 4 1 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [1 2 0 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [3 4 0 1 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [1 0 2 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [1 2 0 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [1 0 2 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [4 3 1 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [1 2 0 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [1 2 0 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [1 2 0 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [4 3 1 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [1 2 0 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [1 0 2 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [4 3 1 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [1 2 0 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [4 1 3 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [3 0 4 1 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [1 2 0 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [3 4 0 1 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [4 1 3 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [3 4 0 1 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [1 2 0 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [3 4 0 1 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [4 3 1 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [3 0 4 1 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [4 3 1 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [1 2 0 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [1 0 2 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [4 1 3 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [1 0 2 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [1 2 0 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [3 0 4 1 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [1 0 2 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [4 1 3 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [1 0 2 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [1 2 0 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [1 0 2 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [4 1 3 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [1 0 2 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [3 4 0 1 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [1 0 2 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [1 0 2 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [4 3 1 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [3, 0, 4, 1, 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [1 0 2 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [4 3 1 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [4 3 1 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [4 1 3 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [1 0 2 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [1 0 2 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [1 2 0 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [4 3 1 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [4 3 1 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [2 1 4 0 3]
+Final Simulated Annealing Cost: 31
+Final Simulated Annealing Solution: [1 0 2 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [4 1 3 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [3 4 0 1 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [3 4 0 1 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [4 3 1 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [3 0 4 1 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [1 2 0 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [4 3 1 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [4 3 1 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [1 2 0 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [3 4 0 1 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [3 0 4 1 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [1, 0, 2, 3, 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [4 1 3 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [4 3 1 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [4 1 3 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [4 1 3 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [4 1 3 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [4 3 1 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [1 0 2 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [4 1 3 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [3 4 0 1 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [4 3 1 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [4 3 1 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [4 1 3 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [1 2 0 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [3 0 4 1 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [1 0 2 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [4 1 3 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [1 0 2 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [1 0 2 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [1 2 0 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [1, 0, 2, 3, 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [1, 0, 2, 3, 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [3 0 4 1 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [3, 0, 4, 1, 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [3 4 0 1 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [4 3 1 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [4 1 3 0 2]
+Final Simulated Annealing Cost: 26
+Final Simulated Annealing Solution: [3 0 4 1 2]
+Final Simulated Annealing Cost: 25
+Final Simulated Annealing Solution: [1 2 0 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [1 0 2 3 4]
+Final Simulated Annealing Cost: 29
+Final Simulated Annealing Solution: [1 0 2 3 4]
+Final Simulated Annealing Cost: 29
